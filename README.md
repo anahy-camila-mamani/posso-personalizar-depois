@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a **Anahy Camila Mamani**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC)
 🤖 Focada em **IA Generativa**, **Machine Learning**, **NLP** e **Análise de Dados**  
 📍 Americana – SP  
 
